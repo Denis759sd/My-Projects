@@ -2,12 +2,18 @@
 
 <p>Unity projects: https://bitbucket.org/ollTiMist/workspace/projects/PROG</p>
 
-<p>
-  SpaceX: https://denis759sd.github.io/SpaceX/ 
-  Repository: https://github.com/Denis759sd/SpaceX
-</p>
+<div>
+  <h2>SpaceX</h2>
+  <p>
+    Web-Site: https://denis759sd.github.io/SpaceX/<br>
+    Repository: https://github.com/Denis759sd/SpaceX
+  </p>
+</div>
 
-<p>
-  Venori: https://denis759sd.github.io/Venori/<br>
-  Repository: https://github.com/Denis759sd/Venori
-</p>
+<div>
+  <h2>Venori</h2>
+  <p>
+    Web-Site: https://denis759sd.github.io/Venori/<br>
+    Repository: https://github.com/Denis759sd/Venori
+  </p>
+</div>
