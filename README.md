@@ -17,3 +17,11 @@
     Repository: https://github.com/Denis759sd/Venori
   </p>
 </div>
+
+<div>
+  <h2>Fizika</h2>
+  <p>
+    Web-Site: https://denis759sd.github.io/Fizika/<br>
+    Repository: https://github.com/Denis759sd/Fizika
+  </p>
+</div>
