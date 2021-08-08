@@ -3,7 +3,8 @@
 <p>Unity projects: https://bitbucket.org/ollTiMist/workspace/projects/PROG</p>
 
 <p>
-  SpaceX: https://github.com/Denis759sd/SpaceX
+  SpaceX: https://denis759sd.github.io/SpaceX/ 
+  Repository: https://github.com/Denis759sd/SpaceX
 </p>
 
 <p>
