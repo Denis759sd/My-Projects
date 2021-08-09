@@ -11,10 +11,10 @@
 </div>
 
 <div>
-  <h2>Venori</h2>
+  <h2>Olimp</h2>
   <p>
-    Web-Site: https://denis759sd.github.io/Venori/<br>
-    Repository: https://github.com/Denis759sd/Venori
+    Web-Site: https://denis759sd.github.io/Olimp/<br>
+    Repository: https://github.com/Denis759sd/Olimp
   </p>
 </div>
 
